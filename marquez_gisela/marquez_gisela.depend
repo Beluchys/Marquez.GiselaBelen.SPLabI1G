@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1625531119 source:c:\users\gmarquez\desktop\utn\1er cuatrimestre\laboratorio i y programaci”n i\segunda parte completa - dinamica\marquez_gisela\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"control.h"
+	"validaciones_marquez.h"
+
+1625526116 c:\users\gmarquez\desktop\utn\1er cuatrimestre\laboratorio i y programaci”n i\segunda parte completa - dinamica\marquez_gisela\linkedlist.h
+
+1625531178 c:\users\gmarquez\desktop\utn\1er cuatrimestre\laboratorio i y programaci”n i\segunda parte completa - dinamica\marquez_gisela\control.h
+	"elementos.h"
+
+1625515043 source:c:\users\gmarquez\desktop\utn\1er cuatrimestre\laboratorio i y programaci”n i\segunda parte completa - dinamica\marquez_gisela\validaciones_marquez.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones_marquez.h"
+
+1625266427 c:\users\gmarquez\desktop\utn\1er cuatrimestre\laboratorio i y programaci”n i\segunda parte completa - dinamica\marquez_gisela\validaciones_marquez.h
+
+1625530374 source:c:\users\gmarquez\desktop\utn\1er cuatrimestre\laboratorio i y programaci”n i\segunda parte completa - dinamica\marquez_gisela\control.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"elementos.h"
+	"validaciones_marquez.h"
+	"parser.h"
+
+1625522678 c:\users\gmarquez\desktop\utn\1er cuatrimestre\laboratorio i y programaci”n i\segunda parte completa - dinamica\marquez_gisela\elementos.h
+	"LinkedList.h"
+
+1625530190 source:c:\users\gmarquez\desktop\utn\1er cuatrimestre\laboratorio i y programaci”n i\segunda parte completa - dinamica\marquez_gisela\elementos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"elementos.h"
+	"LinkedList.h"
+	"validaciones_marquez.h"
+	"control.h"
+
+1625522784 source:c:\users\gmarquez\desktop\utn\1er cuatrimestre\laboratorio i y programaci”n i\segunda parte completa - dinamica\marquez_gisela\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625530739 source:c:\users\gmarquez\desktop\utn\1er cuatrimestre\laboratorio i y programaci”n i\segunda parte completa - dinamica\marquez_gisela\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"elementos.h"
+	"parser.h"
+
+1625530711 c:\users\gmarquez\desktop\utn\1er cuatrimestre\laboratorio i y programaci”n i\segunda parte completa - dinamica\marquez_gisela\parser.h
+
