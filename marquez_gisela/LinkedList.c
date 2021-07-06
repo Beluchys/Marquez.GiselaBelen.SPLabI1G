@@ -563,7 +563,7 @@ LinkedList* ll_map(LinkedList* this, void* (*pFunc)(void*))
  * @param  this Array a filtrar
  * @param  pFunc Funcionq ue le indicara que debe filtrar
  * @return Retorna la lista copiada o NULL.
- * @author FacuFalcone.
+
  */
 LinkedList* ll_filter(LinkedList *this, int (*pFunc)(void*))
 {
